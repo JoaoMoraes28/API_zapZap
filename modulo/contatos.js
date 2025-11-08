@@ -11,7 +11,7 @@ const contatos = {
           "end": "null"
         }
         ,
-        "profile-image": "11987876567.png",
+        "profile-image": "../img_contatos/ricardoSilva.jpg",
         "number": "11987876567",
         "background": "#fccc5b",
         "contacts":
@@ -20,7 +20,7 @@ const contatos = {
               "name": "Ana Maria",
               "number": "26999999963",
               "description": "Frontend Developer",
-              "image": "26999999963.png",
+              "image": "../img_contatos/anaMaria.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -48,7 +48,7 @@ const contatos = {
               "name": "Jane Smith",
               "number": "269999799601",
               "description": "UI Designer",
-              "image": "269999799601.png",
+              "image": "../img_contatos/janeSmith.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -76,7 +76,7 @@ const contatos = {
               "name": "Mark Johnson",
               "number": "26999999964",
               "description": "Backend Developer",
-              "image": "26999999964.png",
+              "image": "../img_contatos/markJohson.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -104,7 +104,7 @@ const contatos = {
               "name": "Sarah Lee",
               "number": "26999999965",
               "description": "Software Engineer",
-              "image": "26999999965.png",
+              "image": "../img_contatos/sarahLee.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -132,7 +132,7 @@ const contatos = {
               "name": "John Doe",
               "number": "26999999967",
               "description": "Designer",
-              "image": "26999999967.png",
+              "image": "../img_contatos/johnDoe.jpg",
               "messages": [
                 {
                   "sender": "John Doe",
@@ -160,7 +160,7 @@ const contatos = {
               "name": "Julia Smith",
               "number": "26999999968",
               "description": "Product Manager",
-              "image": "26999999968.png",
+              "image": "../img_contatos/juliaSmith.jpg",
               "messages": [
                 {
                   "sender": "Julia Smith",
@@ -188,7 +188,7 @@ const contatos = {
               "name": "Max Kellerman",
               "number": "26999999969",
               "description": "Marketing Manager",
-              "image": "26999999969.png",
+              "image": "../img_contatos/maxKellerman.jpg",
               "messages": [
                 {
                   "sender": "Max Kellerman",
@@ -219,7 +219,7 @@ const contatos = {
           "end": "null"
         }
         ,
-        "profile-image": "11966578996.png",
+        "profile-image": "../img_contatos/bernardoXavier.jpg",
         "number": "11966578996",
         "background": "#fccc5b",
         "contacts":
@@ -228,7 +228,7 @@ const contatos = {
               "name": "José Maria da Silva",
               "number": "26999999910",
               "description": "Developer",
-              "image": "26999999910.png",
+              "image": "../img_contatos/joseMaria.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -256,7 +256,7 @@ const contatos = {
               "name": "John Guttemberg",
               "number": "26999999911",
               "description": "Free",
-              "image": "269999999110.png",
+              "image": "../img_contatos/johnCuttemberg.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -284,7 +284,7 @@ const contatos = {
               "name": "George Mikael",
               "number": "26999999912",
               "description": "Backend Developer",
-              "image": "26999999912.png",
+              "image": "../img_contatos/georgeMikael.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -312,7 +312,7 @@ const contatos = {
               "name": "Cristian Lee",
               "number": "26999999913",
               "description": "Software Engineer",
-              "image": "26999999912.png",
+              "image": "../img_contatos/cristianLee.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -340,7 +340,7 @@ const contatos = {
               "name": "Jonny Devited",
               "number": "26999999914",
               "description": "Designer",
-              "image": "26999999914.png",
+              "image": "../img_contatos/jonnyDevited.jpg",
               "messages": [
                 {
                   "sender": "Jonny Devited",
@@ -368,7 +368,7 @@ const contatos = {
               "name": "Shita Ling",
               "number": "26999999916",
               "description": "Product Manager",
-              "image": "26999999916.png",
+              "image": "../img_contatos/shitaLing.jpg",
               "messages": [
                 {
                   "sender": "Shita Ling",
@@ -396,7 +396,7 @@ const contatos = {
               "name": "Nilsen Silva",
               "number": "26999999917",
               "description": "Marketing Manager",
-              "image": "26999999917.png",
+              "image": "../img_contatos/nilsenSilva.jpg",
               "messages": [
                 {
                   "sender": "Nilsen Silva",
@@ -427,7 +427,7 @@ const contatos = {
           "end": "null"
         }
         ,
-        "profile-image": "11955577796.png",
+        "profile-image": "../img_contatos/sandyWilstern.jpg",
         "number": "11955577796",
         "background": "#cc5bfc",
         "contacts":
@@ -436,7 +436,7 @@ const contatos = {
               "name": "Peter Wilsen",
               "number": "26999999920",
               "description": "Engineer",
-              "image": "26999999920.png",
+              "image": "../img_contatos/peterWilsen.jpg",
               "messages": [
                 {
                   "sender": "me",
@@ -464,7 +464,7 @@ const contatos = {
               "name": "Jonny Devited",
               "number": "26999999921",
               "description": "Designer",
-              "image": "26999999921.png",
+              "image": "../img_contatos/jonnyDevited.jpg",
               "messages": [
                 {
                   "sender": "Jonny Devited",
@@ -492,7 +492,7 @@ const contatos = {
               "name": "Franklin Silva",
               "number": "26999999922",
               "description": "Product Manager",
-              "image": "26999999922.png",
+              "image": "../img_contatos/franklinSilva.jpg",
               "messages": [
                 {
                   "sender": "Franklin Silva",
@@ -520,7 +520,7 @@ const contatos = {
               "name": "Catarina Sousa",
               "number": "26999999923",
               "description": "Marketing Manager",
-              "image": "26999999923.png",
+              "image": "../img_contatos/catarinaSouza.jpg",
               "messages": [
                 {
                   "sender": "Catarina Sousa",
@@ -551,7 +551,7 @@ const contatos = {
           "end": "null"
         }
         ,
-        "profile-image": "1194457796.png",
+        "profile-image": "../img_contatos/jonathanXavier.jpg",
         "number": "1194457796",
         "background": "#c00bfc",
         "contacts":
@@ -560,11 +560,11 @@ const contatos = {
               "name": "Wally Gator",
               "number": "26999999930",
               "description": "Free",
-              "image": "26999999930.png",
+              "image": "../img_contatos/wallyGator.jpg",
               "messages": [
                 {
                   "sender": "me",
-                  "content": "Hey Sarah, como estão as coisas?",
+                  "content": "Hey Wally, como estão as coisas?",
                   "time": "10:00"
                 },
                 {

@@ -81,6 +81,8 @@ function getAllContacts(number) {
     }
 }
 
+getAllContacts('11955577796')
+
 function getAllDatasMessage(number) {
     let success = JSON.parse(JSON.stringify(MESSAGE_SUCCESS))
     let profile = dados.contatos['whats-users'].find(item => item.number == number)
